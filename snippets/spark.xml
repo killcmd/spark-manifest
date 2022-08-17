@@ -316,11 +316,11 @@
   <!-- Packages repos -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="spark" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="spark" />
-  <project path="packages/apps/Fireworks" name="packages_apps_Fireworks" remote="killcmd" />
+  <project path="packages/apps/Fireworks" name="packages_apps_Fireworks" remote="spark" />
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="spark" />
   <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="spark" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="spark" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="killcmd" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="spark" />
   <project path="packages/apps/SparkWallpaperStub" name="packages_apps_SparkWallpaperStub" remote="spark" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="spark" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="spark" />
